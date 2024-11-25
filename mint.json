@@ -69,10 +69,19 @@
       ]
     },
     {
-      "group": "Changelog",
+      "group": "Hobbies",
       "pages": [
         "changelog/fitness",
-        "changelog/guitar"
+        "changelog/guitar",
+        "changelog/writing"
+      ]
+    },
+    {
+      "group": "Money Hub",
+      "pages": [
+        "changelog/10-failures",
+        "changelog/red",
+        "changelog/portfolio"
       ]
     }
   ],
