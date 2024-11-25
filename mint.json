@@ -27,32 +27,27 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Test",
+      "url": "test"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Mintlify Doc",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "Ship30",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "http://luxlu-ship-30.notion.site"
     },
     {
       "name": "Worklog",
       "icon": "newspaper",
       "url": "https://www.notion.so/luxlu-ship-30/Projects-OS-12f96f32c451806c9c03de317f8796ea?showMoveTo=true&saveParent=true"
     }
-  ],
+  ], 
   "navigation": [
     {
       "group": "Get Started",
@@ -77,15 +72,15 @@
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "test/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "test/endpoint/get",
+        "test/endpoint/create",
+        "test/endpoint/delete"
       ]
     }
   ],
