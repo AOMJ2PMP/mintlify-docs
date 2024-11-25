@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Test",
-      "url": "test"
+      "name": "Changelog",
+      "url": "changelog"
     }
   ],
   "anchors": [
@@ -70,17 +70,10 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Changelog",
       "pages": [
-        "test/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "test/endpoint/get",
-        "test/endpoint/create",
-        "test/endpoint/delete"
+        "changelog/fitness",
+        "changelog/guitar"
       ]
     }
   ],
